@@ -12,6 +12,8 @@ from lightning.pytorch.callbacks.early_stopping import EarlyStopping
 from lightning.pytorch.loggers import MLFlowLogger
 import mlflow
 
+from argparse import ArgumentParser
+
 class Encoder(nn.Module):
     def __init__(self):
         super().__init__()
@@ -65,10 +67,16 @@ class LitAutoEncoder(pl.LightningModule):
         return optimizer
 
 if __name__ == "__main__":
+    parser = ArgumentParser()
+    parser.add_argument("--devices", type=int, default=1)
+    parser.add_argument("--lr", type=float, default=0.001)
+    args = parser.parse_args()
+    print (args)
+
     autoencoder = LitAutoEncoder(Encoder(), Decoder())
 
     # early_stop_callback = EarlyStopping(monitor="val_loss", min_delta=0.00, patience=3, verbose=False, mode="max")
-    trainer = pl.Trainer(logger=MLFlowLogger(experiment_name="lightning_logs"), max_epochs=1)
+    trainer = pl.Trainer(devices=args.devices, logger=MLFlowLogger(experiment_name="lightning_logs"), max_epochs=1)
 
     transform = transforms.ToTensor()
     train_set = MNIST(root="MNIST", download=True, train=True, transform=transform)
