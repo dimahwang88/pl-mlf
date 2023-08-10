@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/429403146895904380/d9b47a671b6942d3b55d0f69b0a43837/artifacts
+deleted_time: 1691679414907
+end_time: 1691679028697
+entry_point_name: ''
+experiment_id: '429403146895904380'
+lifecycle_stage: deleted
+run_id: d9b47a671b6942d3b55d0f69b0a43837
+run_name: casual-seal-454
+run_uuid: d9b47a671b6942d3b55d0f69b0a43837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691678920582
+status: 3
+tags: []
+user_id: bepro

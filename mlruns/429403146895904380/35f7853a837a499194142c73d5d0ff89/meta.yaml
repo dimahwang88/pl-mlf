@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/429403146895904380/35f7853a837a499194142c73d5d0ff89/artifacts
+deleted_time: 1691678695066
+end_time: 1691678524831
+entry_point_name: ''
+experiment_id: '429403146895904380'
+lifecycle_stage: deleted
+run_id: 35f7853a837a499194142c73d5d0ff89
+run_name: capricious-calf-273
+run_uuid: 35f7853a837a499194142c73d5d0ff89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691678417647
+status: 4
+tags: []
+user_id: bepro

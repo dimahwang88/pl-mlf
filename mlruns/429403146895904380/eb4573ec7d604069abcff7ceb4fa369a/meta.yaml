@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/429403146895904380/eb4573ec7d604069abcff7ceb4fa369a/artifacts
+deleted_time: 1691680219281
+end_time: 1691679941093
+entry_point_name: ''
+experiment_id: '429403146895904380'
+lifecycle_stage: deleted
+run_id: eb4573ec7d604069abcff7ceb4fa369a
+run_name: grandiose-elk-971
+run_uuid: eb4573ec7d604069abcff7ceb4fa369a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691679940141
+status: 4
+tags: []
+user_id: bepro

@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/429403146895904380/8a837f06ce4e4916ac0688c7e6a931fb/artifacts
+deleted_time: 1691678695066
+end_time: 1691678679443
+entry_point_name: ''
+experiment_id: '429403146895904380'
+lifecycle_stage: deleted
+run_id: 8a837f06ce4e4916ac0688c7e6a931fb
+run_name: unleashed-owl-494
+run_uuid: 8a837f06ce4e4916ac0688c7e6a931fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691678633147
+status: 4
+tags: []
+user_id: bepro

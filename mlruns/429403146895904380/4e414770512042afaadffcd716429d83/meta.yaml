@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/429403146895904380/4e414770512042afaadffcd716429d83/artifacts
+deleted_time: 1691680219285
+end_time: 1691679782854
+entry_point_name: ''
+experiment_id: '429403146895904380'
+lifecycle_stage: deleted
+run_id: 4e414770512042afaadffcd716429d83
+run_name: powerful-hare-601
+run_uuid: 4e414770512042afaadffcd716429d83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691679781885
+status: 4
+tags: []
+user_id: bepro

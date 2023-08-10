@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/429403146895904380/7cbfafcf81c84bbeb9c4f404d2a0d9a1/artifacts
+deleted_time: 1691682344577
+end_time: 1691682338317
+entry_point_name: ''
+experiment_id: '429403146895904380'
+lifecycle_stage: deleted
+run_id: 7cbfafcf81c84bbeb9c4f404d2a0d9a1
+run_name: exultant-fly-215
+run_uuid: 7cbfafcf81c84bbeb9c4f404d2a0d9a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691682292308
+status: 4
+tags: []
+user_id: bepro

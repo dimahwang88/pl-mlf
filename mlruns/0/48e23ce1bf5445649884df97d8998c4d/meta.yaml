@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/0/48e23ce1bf5445649884df97d8998c4d/artifacts
+deleted_time: 1691678690946
+end_time: 1691678679444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 48e23ce1bf5445649884df97d8998c4d
+run_name: sassy-conch-165
+run_uuid: 48e23ce1bf5445649884df97d8998c4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691678633034
+status: 3
+tags: []
+user_id: bepro

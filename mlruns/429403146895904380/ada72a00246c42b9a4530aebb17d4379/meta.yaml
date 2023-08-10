@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/429403146895904380/ada72a00246c42b9a4530aebb17d4379/artifacts
+deleted_time: 1691680219281
+end_time: 1691680186686
+entry_point_name: ''
+experiment_id: '429403146895904380'
+lifecycle_stage: deleted
+run_id: ada72a00246c42b9a4530aebb17d4379
+run_name: placid-ape-611
+run_uuid: ada72a00246c42b9a4530aebb17d4379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691680075359
+status: 4
+tags: []
+user_id: bepro

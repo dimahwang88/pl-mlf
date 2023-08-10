@@ -1,0 +1,6 @@
+artifact_location: file:///media/data/pytorch_lightning/mlruns/429403146895904380
+creation_time: 1691678281446
+experiment_id: '429403146895904380'
+last_update_time: 1691678281446
+lifecycle_stage: active
+name: lightning_logs

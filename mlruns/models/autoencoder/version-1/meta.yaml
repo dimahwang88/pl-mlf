@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1691676571044
+current_stage: Archived
+description: ''
+last_updated_timestamp: 1691682869757
+name: autoencoder
+run_id: 0304b10229b54c8788058edf8da4f5e7
+run_link: ''
+source: file:///media/data/pytorch_lightning/mlruns/0/0304b10229b54c8788058edf8da4f5e7/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

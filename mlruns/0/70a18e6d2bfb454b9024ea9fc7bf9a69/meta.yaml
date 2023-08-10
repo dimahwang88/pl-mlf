@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/0/70a18e6d2bfb454b9024ea9fc7bf9a69/artifacts
+deleted_time: 1691678370188
+end_time: 1691665980163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 70a18e6d2bfb454b9024ea9fc7bf9a69
+run_name: gifted-flea-826
+run_uuid: 70a18e6d2bfb454b9024ea9fc7bf9a69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691665946355
+status: 4
+tags: []
+user_id: bepro

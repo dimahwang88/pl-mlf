@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/0/77611d0a80304c6d81862336c6af2192/artifacts
+deleted_time: 1691678370161
+end_time: 1691675723286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 77611d0a80304c6d81862336c6af2192
+run_name: caring-shoat-799
+run_uuid: 77611d0a80304c6d81862336c6af2192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691675616928
+status: 3
+tags: []
+user_id: bepro

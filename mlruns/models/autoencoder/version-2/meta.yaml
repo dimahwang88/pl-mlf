@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1691682861258
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1691682869757
+name: autoencoder
+run_id: 3a7c247877874eabb46fed2569c2b8fb
+run_link: ''
+source: file:///media/data/pytorch_lightning/mlruns/429403146895904380/3a7c247877874eabb46fed2569c2b8fb/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 2

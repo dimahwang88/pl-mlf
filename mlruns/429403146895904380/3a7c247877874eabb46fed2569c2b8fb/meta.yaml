@@ -1,0 +1,15 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/429403146895904380/3a7c247877874eabb46fed2569c2b8fb/artifacts
+end_time: 1691682798476
+entry_point_name: ''
+experiment_id: '429403146895904380'
+lifecycle_stage: active
+run_id: 3a7c247877874eabb46fed2569c2b8fb
+run_name: unruly-bee-732
+run_uuid: 3a7c247877874eabb46fed2569c2b8fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691682667354
+status: 3
+tags: []
+user_id: bepro

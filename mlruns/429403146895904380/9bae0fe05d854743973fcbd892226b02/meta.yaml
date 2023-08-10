@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/429403146895904380/9bae0fe05d854743973fcbd892226b02/artifacts
+deleted_time: 1691681519366
+end_time: 1691681286838
+entry_point_name: ''
+experiment_id: '429403146895904380'
+lifecycle_stage: deleted
+run_id: 9bae0fe05d854743973fcbd892226b02
+run_name: monumental-skunk-160
+run_uuid: 9bae0fe05d854743973fcbd892226b02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691681161279
+status: 3
+tags: []
+user_id: bepro

@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/0/6b696669d6554ee1ba5baa617998454b/artifacts
+deleted_time: 1691678370188
+end_time: 1691675606837
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6b696669d6554ee1ba5baa617998454b
+run_name: serious-seal-791
+run_uuid: 6b696669d6554ee1ba5baa617998454b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691675486713
+status: 4
+tags: []
+user_id: bepro

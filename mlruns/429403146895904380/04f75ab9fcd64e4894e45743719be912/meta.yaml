@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/429403146895904380/04f75ab9fcd64e4894e45743719be912/artifacts
+deleted_time: 1691682263081
+end_time: 1691682068317
+entry_point_name: ''
+experiment_id: '429403146895904380'
+lifecycle_stage: deleted
+run_id: 04f75ab9fcd64e4894e45743719be912
+run_name: receptive-loon-75
+run_uuid: 04f75ab9fcd64e4894e45743719be912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691681939080
+status: 3
+tags: []
+user_id: bepro

@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/0/7ba42a474bcc4f9ea4483190b53efb8f/artifacts
+deleted_time: 1691681946719
+end_time: 1691681773080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7ba42a474bcc4f9ea4483190b53efb8f
+run_name: lyrical-ram-597
+run_uuid: 7ba42a474bcc4f9ea4483190b53efb8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691681773076
+status: 3
+tags: []
+user_id: bepro

@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/429403146895904380/8fd06e5bc9274ea2bcb1b30b8202dc0f/artifacts
+deleted_time: 1691680219292
+end_time: 1691679766072
+entry_point_name: ''
+experiment_id: '429403146895904380'
+lifecycle_stage: deleted
+run_id: 8fd06e5bc9274ea2bcb1b30b8202dc0f
+run_name: handsome-lamb-229
+run_uuid: 8fd06e5bc9274ea2bcb1b30b8202dc0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691679765112
+status: 4
+tags: []
+user_id: bepro

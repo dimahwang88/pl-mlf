@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/0/19eda0ab1973437398e78e2dff926917/artifacts
+deleted_time: 1691678370188
+end_time: 1691666047304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 19eda0ab1973437398e78e2dff926917
+run_name: angry-fox-858
+run_uuid: 19eda0ab1973437398e78e2dff926917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691666027095
+status: 4
+tags: []
+user_id: bepro

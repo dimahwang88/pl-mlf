@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/429403146895904380/c11b2794a87f4247b3f7ad5bd93a2201/artifacts
+deleted_time: 1691681519371
+end_time: 1691680928119
+entry_point_name: ''
+experiment_id: '429403146895904380'
+lifecycle_stage: deleted
+run_id: c11b2794a87f4247b3f7ad5bd93a2201
+run_name: stylish-owl-159
+run_uuid: c11b2794a87f4247b3f7ad5bd93a2201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691680802385
+status: 3
+tags: []
+user_id: bepro

@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/0/a404d9bd0f5d47d782439a107d8c0105/artifacts
+deleted_time: 1691678530255
+end_time: 1691678525242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a404d9bd0f5d47d782439a107d8c0105
+run_name: overjoyed-wasp-996
+run_uuid: a404d9bd0f5d47d782439a107d8c0105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691678417535
+status: 4
+tags: []
+user_id: bepro

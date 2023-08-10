@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/429403146895904380/95e37817a77f49cab4f4160636c99f02/artifacts
+deleted_time: 1691680219301
+end_time: 1691679499789
+entry_point_name: ''
+experiment_id: '429403146895904380'
+lifecycle_stage: deleted
+run_id: 95e37817a77f49cab4f4160636c99f02
+run_name: suave-dog-200
+run_uuid: 95e37817a77f49cab4f4160636c99f02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691679408520
+status: 4
+tags: []
+user_id: bepro

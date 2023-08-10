@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/0/61469bf843cd469896ed5ad23e088dd3/artifacts
+deleted_time: 1691678370160
+end_time: 1691677940651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 61469bf843cd469896ed5ad23e088dd3
+run_name: fearless-shrew-754
+run_uuid: 61469bf843cd469896ed5ad23e088dd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691677831565
+status: 4
+tags: []
+user_id: bepro

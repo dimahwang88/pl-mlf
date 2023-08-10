@@ -1,0 +1,16 @@
+artifact_uri: file:///media/data/pytorch_lightning/mlruns/0/75f61ad96674475cb5de52c129e43e66/artifacts
+deleted_time: 1691678370160
+end_time: 1691676968976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 75f61ad96674475cb5de52c129e43e66
+run_name: victorious-lynx-0
+run_uuid: 75f61ad96674475cb5de52c129e43e66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691676942183
+status: 3
+tags: []
+user_id: bepro
