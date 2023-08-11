@@ -68,12 +68,25 @@ class LitAutoEncoder(pl.LightningModule):
     
     def forward(self, x):
         return x
+    
+    def predict_step(self, batch, batch_idx, dataloader_idx=0):
+        return self(batch)
 
 if __name__ == "__main__":
     model = LitAutoEncoder.load_from_checkpoint("/media/data/pl-mlf/checkpoints/lightning_logs/version_0/checkpoints/epoch=0-step=48000.ckpt")
-    model.eval()
-    x = torch.randn(1, 64)
 
-    with torch.no_grad():
-        y_hat = model(x)
-        print (y_hat)
+    ##
+    # model.eval()
+    # x = torch.randn(1, 64)
+
+    # with torch.no_grad():
+    #     y_hat = model(x)
+    #     print (y_hat)
+    ##
+
+    model = LitAutoEncoder(Encoder(), Decoder())
+    trainer = pl.Trainer()
+    transform = transforms.ToTensor()
+    test_set = MNIST(root="MNIST", download=True, train=False, transform=transform)
+    predictions = trainer.predict(model, DataLoader(test_set))
+    print (predictions)
